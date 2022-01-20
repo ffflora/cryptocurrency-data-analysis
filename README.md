@@ -1,4 +1,5 @@
 # cryptocurrency-data-analysis
 
 Data analysis project on cryptocurrency.  
-[Check out the report here.](https://kyso.io/FFFlora/cryptocurrency-data-analysis-with-python)
+[Check out the analysis overview here.](https://nbviewer.org/github/ffflora/cryptocurrency-data-analysis/blob/master/cryptocurrency-with-python.ipynb)
+
